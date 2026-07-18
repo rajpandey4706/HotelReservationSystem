@@ -308,7 +308,7 @@ Make sure you have installed:
 Clone this repository to your local system:
 
 ```bash
-git clone https://github.com/rajpandey4706/HotelReservationSystem.git
+git clone https://github.com/rajpandey4706/CodeAlpha_HotelReservationSystem.git
 ```
 
 Open the project in IntelliJ IDEA.
