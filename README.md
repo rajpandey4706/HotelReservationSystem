@@ -478,17 +478,28 @@ Sensitive database passwords are not stored directly in the Java source code.
 
 Project screenshots can be added inside the `screenshots` directory.
 
-Example:
+## 📸 Screenshots
 
-```text
-screenshots/
-├── main-menu.png
-├── available-rooms.png
-├── reservation-success.png
-├── view-reservations.png
-├── update-reservation.png
-└── cancel-reservation.png
-```
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### View All Rooms
+![View All Rooms](screenshots/all-rooms.png)
+
+### Search Available Rooms
+![Available Rooms](screenshots/available-rooms.png)
+
+### Reservation Successful
+![Reservation Successful](screenshots/reservation-success.png)
+
+### View All Reservations
+![View Reservations](screenshots/view-reservations.png)
+
+### Update Reservation
+![Update Reservation](screenshots/update-reservation.png)
+
+### Cancel Reservation
+![Cancel Reservation](screenshots/cancel-reservation.png)
 
 ---
 
